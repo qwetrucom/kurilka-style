@@ -1,0 +1,123 @@
+{
+  "short_name": "KB77.ru",
+  "name": "KB77.ru: Создание сайтов электронной торговли, ориентированных на SEO-продвижение",
+  "icons": [
+    {
+      "src": "/img/fav/admin.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/img/fav/favicon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/img/fav/favicon-196x196.png",
+      "type": "image/png",
+      "sizes": "196x196"
+    },
+    {
+      "src": "/img/fav/favicon-128x128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "/img/fav/favicon-96x96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/img/fav/favicon-32x32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "/img/fav/favicon-16x16.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "/img/fav/mstile-310x310.png",
+      "type": "image/png",
+      "sizes": "310x310"
+    },
+    {
+      "src": "/img/fav/mstile-310x150.png",
+      "type": "image/png",
+      "sizes": "310x150"
+    },
+    {
+      "src": "/img/fav/mstile-150x150.png",
+      "type": "image/png",
+      "sizes": "150x150"
+    },
+    {
+      "src": "/img/fav/mstile-70x70.png",
+      "type": "image/png",
+      "sizes": "70x70"
+    },
+    {
+      "src": "/img/fav/apple-touch-icon-57x57.png",
+      "type": "image/png",
+      "sizes": "57x57"
+    },
+    {
+      "src": "/img/fav/apple-touch-icon-60x60.png",
+      "type": "image/png",
+      "sizes": "60x60"
+    },
+    {
+      "src": "/img/fav/apple-touch-icon-72x72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "/img/fav/apple-touch-icon-76x76.png",
+      "type": "image/png",
+      "sizes": "76x76"
+    },
+    {
+      "src": "/img/fav/apple-touch-icon-114x114.png",
+      "type": "image/png",
+      "sizes": "114x114"
+    },
+    {
+      "src": "/img/fav/apple-touch-icon-120x120.png",
+      "type": "image/png",
+      "sizes": "120x120"
+    },
+    {
+      "src": "/img/fav/apple-touch-icon-144x144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/img/fav/apple-touch-icon-152x152.png",
+      "type": "image/png",
+      "sizes": "152x152"
+    }
+  ],
+  "start_url": "https://kb77.ru",
+  "background_color": "#000000",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#000000",
+  "shortcuts": [
+    {
+      "name": "Разработка и поддержка сайтов, ориентированных на СЕО-продвижение",
+      "short_name": "Услуги",
+      "description": "Краткая информация по нашим услушам.",
+      "url": "https://kb77.ru/uslugi",
+      "icons": [{ "src": "/img/fav/templates-admin-512x512.png", "sizes": "512x512" }]
+    }
+  ],
+  "description": "Разработка и поддержка сайтов, ориентированных на СЕО-продвижение",
+  "screenshots": [
+    {
+      "src": "/img/fav/templates-admin-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
